@@ -1,0 +1,10 @@
+﻿  Currency.cpp
+  CurrencyCollection.cpp
+  DataEncoder.cpp
+  Exchange.cpp
+  ICollectionManager.cpp
+  IRemoteDataProvider.cpp
+  Lab1.cpp
+  RestDataProvider.cpp
+  Generating Code...
+  Lab1.vcxproj -> C:\Users\jlena\Desktop\Studia\TechnologieObiektowe\TO_Jakub_Lenart\Lab1\x64\Debug\Lab1.exe
