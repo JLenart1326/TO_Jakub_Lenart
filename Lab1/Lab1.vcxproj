@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="Currency.cpp" />
     <ClCompile Include="CurrencyCollection.cpp" />
+    <ClCompile Include="CurrencyExchangeInterface.cpp" />
     <ClCompile Include="DataEncoder.cpp" />
     <ClCompile Include="Exchange.cpp" />
     <ClCompile Include="ICollectionManager.cpp" />
@@ -139,6 +140,7 @@
   <ItemGroup>
     <ClInclude Include="Currency.h" />
     <ClInclude Include="CurrencyCollection.h" />
+    <ClInclude Include="CurrencyExchangeInterface.h" />
     <ClInclude Include="DataEncoder.h" />
     <ClInclude Include="Exchange.h" />
     <ClInclude Include="ICollectionManager.h" />

@@ -1,32 +1,81 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
+# 🛑 Pliki kompilacji i binaria
 *.exe
 *.out
 *.app
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+*.o
+*.obj
+*.lo
+*.la
+*.i
+*.ii
+*.s
+*.swp
+*.class
+
+# 🛑 Pliki CMake i Makefile
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+build/
+out/
+bin/
+Debug/
+Release/
+dist/
+
+# 🛑 Pliki Visual Studio
+*.sln
+*.suo
+*.user
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.ncb
+*.pdb
+*.ipch
+*.opensdf
+*.sdf
+*.tlog
+*.log
+*.obj
+*.ilk
+*.idb
+*.pch
+*.vscode/
+*.vs/
+
+# 🛑 Pliki Code::Blocks
+*.cbp
+*.depend
+*.layout
+
+# 🛑 Pliki CLion / JetBrains
+.idea/
+cmake-build-debug/
+cmake-build-release/
+
+# 🛑 Biblioteki zewnętrzne
+vcpkg_installed/
+vcpkg/
+conanfile.lock
+conanbuildinfo.txt
+conanbuildinfo.cmake
+conaninfo.txt
+
+# 🛑 Pliki edytorów i systemowe
+*.DS_Store
+*.swp
+*.swo
+*.bak
+*.tmp
+*.log
+*.cache
+*.ccls-cache/
+*.tags

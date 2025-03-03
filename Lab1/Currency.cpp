@@ -1,25 +1,22 @@
 #include "Currency.h"
 
 // Konstruktor domyœlny
-Currency::Currency() : name(""), code(""), exchangeRate(0.0) {
-    cout << "Konstruktor bezparametryczny" << endl;
+Currency::Currency() : name(""), code(""), exchangeRate(0.0) 
+{
 }
 
 // Konstruktor z parametrami
 Currency::Currency(string name, string code, double exchangeRate)
     : name(name), code(code), exchangeRate(exchangeRate) {
-    cout << "Konstruktor parametryczny" << endl;
 }
 Currency::Currency(const Currency& other)
 {
     this->setName(other.getName());
     this->setCode(other.getCode());
     this->setExchangeRate(other.getExchangeRate());
-    cout << "Konstruktor kopiuj¹cy";
 }
 Currency::~Currency()
 {
-    cout << "Destruktor";
 }
 
 string Currency::getName() const {

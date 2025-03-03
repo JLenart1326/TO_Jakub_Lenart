@@ -1,9 +1,14 @@
-// Lab1.cpp : This file contains the 'main' function. Program execution begins and ends there.
+ï»¿// Lab1.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
-#include "Exchange.h"
+#include "CurrencyExchangeInterface.h"
+
+CurrencyExchangeInterface* CurrencyExchangeInterface::instance = nullptr;
 
 int main()
 {
-    Currency baseCurrency = Currency("Z³oty", "PLN", 1.0);
+    CurrencyExchangeInterface* mainInterface = CurrencyExchangeInterface::getInstance();
+    mainInterface->init();
+    
+    return 0;
 }
 

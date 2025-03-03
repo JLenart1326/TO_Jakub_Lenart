@@ -1,10 +1,20 @@
 ﻿  Currency.cpp
   CurrencyCollection.cpp
+C:\Users\jakub.lenart\Desktop\Studia\TechnologieObiektowe\TO_Jakub_Lenart\Lab1\CurrencyCollection.cpp(22,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jakub.lenart\Desktop\Studia\TechnologieObiektowe\TO_Jakub_Lenart\Lab1\CurrencyCollection.cpp(22,51): warning C4552: '>': result of expression not used
+  CurrencyExchangeInterface.cpp
+C:\Users\jakub.lenart\Desktop\Studia\TechnologieObiektowe\TO_Jakub_Lenart\Lab1\CurrencyExchangeInterface.cpp(27,47): warning C4566: character represented by universal-character-name '\u0142' cannot be represented in the current code page (1252)
   DataEncoder.cpp
+C:\Users\jakub.lenart\Desktop\Studia\TechnologieObiektowe\TO_Jakub_Lenart\Lab1\DataEncoder.cpp(22,17): warning C4566: character represented by universal-character-name '\u0142' cannot be represented in the current code page (1252)
+C:\Users\jakub.lenart\Desktop\Studia\TechnologieObiektowe\TO_Jakub_Lenart\Lab1\DataEncoder.cpp(22,17): warning C4566: character represented by universal-character-name '\u0105' cannot be represented in the current code page (1252)
   Exchange.cpp
   ICollectionManager.cpp
   IRemoteDataProvider.cpp
   Lab1.cpp
   RestDataProvider.cpp
+C:\Users\jakub.lenart\Desktop\Studia\TechnologieObiektowe\TO_Jakub_Lenart\Lab1\RestDataProvider.cpp(16,26): warning C4566: character represented by universal-character-name '\u0142' cannot be represented in the current code page (1252)
+C:\Users\jakub.lenart\Desktop\Studia\TechnologieObiektowe\TO_Jakub_Lenart\Lab1\RestDataProvider.cpp(16,26): warning C4566: character represented by universal-character-name '\u0105' cannot be represented in the current code page (1252)
   Generating Code...
-  Lab1.vcxproj -> C:\Users\jlena\Desktop\Studia\TechnologieObiektowe\TO_Jakub_Lenart\Lab1\x64\Debug\Lab1.exe
+  Lab1.vcxproj -> C:\Users\jakub.lenart\Desktop\Studia\TechnologieObiektowe\TO_Jakub_Lenart\Lab1\x64\Debug\Lab1.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
