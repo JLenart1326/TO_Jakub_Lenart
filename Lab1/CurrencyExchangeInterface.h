@@ -16,5 +16,6 @@ public:
 
     static CurrencyExchangeInterface* getInstance();
     static void init();
+    static void runUserInterface(CurrencyCollection* collection);
 };
 
