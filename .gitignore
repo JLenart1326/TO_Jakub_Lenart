@@ -80,3 +80,4 @@ conaninfo.txt
 *.ccls-cache/
 *.tags
 Lab1/.vs/Lab1/v17/ipch/AutoPCH/c7a6d18b83ce44bb/LAB1.ipch
+*.ipch
