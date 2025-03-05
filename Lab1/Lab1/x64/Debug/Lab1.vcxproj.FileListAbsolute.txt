@@ -1,3 +1,6 @@
 C:\Users\jakub.lenart\Desktop\Studia\TechnologieObiektowe\TO_Jakub_Lenart\Lab1\x64\Debug\libcurl-d.dll
 C:\Users\jakub.lenart\Desktop\Studia\TechnologieObiektowe\TO_Jakub_Lenart\Lab1\x64\Debug\zlibd1.dll
 C:\Users\jakub.lenart\Desktop\Studia\TechnologieObiektowe\TO_Jakub_Lenart\Lab1\Lab1\x64\Debug\Lab1.vcxproj.Up2Date
+C:\Users\jlena\Desktop\Studia\TechnologieObiektowe\TO_Jakub_Lenart\Lab1\x64\Debug\libcurl-d.dll
+C:\Users\jlena\Desktop\Studia\TechnologieObiektowe\TO_Jakub_Lenart\Lab1\x64\Debug\zlibd1.dll
+C:\Users\jlena\Desktop\Studia\TechnologieObiektowe\TO_Jakub_Lenart\Lab1\Lab1\x64\Debug\Lab1.vcxproj.Up2Date

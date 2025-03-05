@@ -13,7 +13,7 @@ vector<unsigned char> RestDataProvider::getData()
 
         CURLcode res = curl_easy_perform(curl);
         if (res != CURLE_OK) {
-            std::cerr << "Błąd cURL: " << curl_easy_strerror(res) << std::endl;
+            std::cerr << "cURL error:" << curl_easy_strerror(res) << std::endl;
         }
         curl_easy_cleanup(curl);
     }
