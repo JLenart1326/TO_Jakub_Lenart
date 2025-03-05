@@ -1,11 +1,9 @@
 #include "Currency.h"
 
-// Konstruktor domyœlny
 Currency::Currency() : name(""), code(""), exchangeRate(0.0) 
 {
 }
 
-// Konstruktor z parametrami
 Currency::Currency(string name, string code, double exchangeRate)
     : name(name), code(code), exchangeRate(exchangeRate) {
 }

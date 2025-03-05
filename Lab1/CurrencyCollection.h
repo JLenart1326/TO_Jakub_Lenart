@@ -6,16 +6,12 @@
 class CurrencyCollection : public ICollectionManager
 {
 private:
-	vector<Currency*> currencyStack;
+	vector<Currency*> currencyCollection;
 
 public:
 	CurrencyCollection(vector<Currency*> currencies);
-
-	//TODO
-	//dopisać konstruktor kopiujący, dopisać destruktor z deletem najpierw każdej monety
-	//dokonczyc implementacje reszty rzeczy z managera
-	//dorobic menu uzytkownika
-	//dorobic logike exchange
+	CurrencyCollection(const CurrencyCollection& other);
+	~CurrencyCollection();
 
 	void add(Currency* newCurrency) override;
 	void print() override;
