@@ -1,6 +1,4 @@
-﻿// Lab1.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
-#include "CurrencyExchangeInterface.h"
+﻿#include "CurrencyExchangeInterface.h"
 
 CurrencyExchangeInterface* CurrencyExchangeInterface::instance = nullptr;
 

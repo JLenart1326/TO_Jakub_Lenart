@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BBB5ED8C-4817-4325-A5A7-E96FC2CB5010}|Lab1.vcxproj|C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\IRemoteDataProvider.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBB5ED8C-4817-4325-A5A7-E96FC2CB5010}|Lab1.vcxproj|solutionrelative:IRemoteDataProvider.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB5ED8C-4817-4325-A5A7-E96FC2CB5010}|Lab1.vcxproj|C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\RestDataProvider.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBB5ED8C-4817-4325-A5A7-E96FC2CB5010}|Lab1.vcxproj|solutionrelative:RestDataProvider.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB5ED8C-4817-4325-A5A7-E96FC2CB5010}|Lab1.vcxproj|C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\Exchange.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBB5ED8C-4817-4325-A5A7-E96FC2CB5010}|Lab1.vcxproj|solutionrelative:Exchange.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB5ED8C-4817-4325-A5A7-E96FC2CB5010}|Lab1.vcxproj|C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\Exchange.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBB5ED8C-4817-4325-A5A7-E96FC2CB5010}|Lab1.vcxproj|solutionrelative:Exchange.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB5ED8C-4817-4325-A5A7-E96FC2CB5010}|Lab1.vcxproj|C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\ICollectionManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBB5ED8C-4817-4325-A5A7-E96FC2CB5010}|Lab1.vcxproj|solutionrelative:ICollectionManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB5ED8C-4817-4325-A5A7-E96FC2CB5010}|Lab1.vcxproj|C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\DataEncoder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBB5ED8C-4817-4325-A5A7-E96FC2CB5010}|Lab1.vcxproj|solutionrelative:DataEncoder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB5ED8C-4817-4325-A5A7-E96FC2CB5010}|Lab1.vcxproj|C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\DataEncoder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBB5ED8C-4817-4325-A5A7-E96FC2CB5010}|Lab1.vcxproj|solutionrelative:DataEncoder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BBB5ED8C-4817-4325-A5A7-E96FC2CB5010}|Lab1.vcxproj|C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\CurrencyExchangeInterface.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BBB5ED8C-4817-4325-A5A7-E96FC2CB5010}|Lab1.vcxproj|solutionrelative:CurrencyExchangeInterface.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -11,64 +39,16 @@
       "RelativeMoniker": "D:0:0:{BBB5ED8C-4817-4325-A5A7-E96FC2CB5010}|Lab1.vcxproj|solutionrelative:CurrencyExchangeInterface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBB5ED8C-4817-4325-A5A7-E96FC2CB5010}|Lab1.vcxproj|C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\CurrencyCollection.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BBB5ED8C-4817-4325-A5A7-E96FC2CB5010}|Lab1.vcxproj|solutionrelative:CurrencyCollection.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBB5ED8C-4817-4325-A5A7-E96FC2CB5010}|Lab1.vcxproj|C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\RestDataProvider.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BBB5ED8C-4817-4325-A5A7-E96FC2CB5010}|Lab1.vcxproj|solutionrelative:RestDataProvider.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BBB5ED8C-4817-4325-A5A7-E96FC2CB5010}|Lab1.vcxproj|C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\Lab1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BBB5ED8C-4817-4325-A5A7-E96FC2CB5010}|Lab1.vcxproj|solutionrelative:Lab1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBB5ED8C-4817-4325-A5A7-E96FC2CB5010}|Lab1.vcxproj|C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\IRemoteDataProvider.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BBB5ED8C-4817-4325-A5A7-E96FC2CB5010}|Lab1.vcxproj|solutionrelative:IRemoteDataProvider.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBB5ED8C-4817-4325-A5A7-E96FC2CB5010}|Lab1.vcxproj|C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\ICollectionManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BBB5ED8C-4817-4325-A5A7-E96FC2CB5010}|Lab1.vcxproj|solutionrelative:ICollectionManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBB5ED8C-4817-4325-A5A7-E96FC2CB5010}|Lab1.vcxproj|C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\Exchange.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BBB5ED8C-4817-4325-A5A7-E96FC2CB5010}|Lab1.vcxproj|solutionrelative:Exchange.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBB5ED8C-4817-4325-A5A7-E96FC2CB5010}|Lab1.vcxproj|C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\DataEncoder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BBB5ED8C-4817-4325-A5A7-E96FC2CB5010}|Lab1.vcxproj|solutionrelative:DataEncoder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBB5ED8C-4817-4325-A5A7-E96FC2CB5010}|Lab1.vcxproj|C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\Currency.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BBB5ED8C-4817-4325-A5A7-E96FC2CB5010}|Lab1.vcxproj|solutionrelative:Currency.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBB5ED8C-4817-4325-A5A7-E96FC2CB5010}|Lab1.vcxproj|C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\RestDataProvider.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BBB5ED8C-4817-4325-A5A7-E96FC2CB5010}|Lab1.vcxproj|solutionrelative:RestDataProvider.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBB5ED8C-4817-4325-A5A7-E96FC2CB5010}|Lab1.vcxproj|C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\IRemoteDataProvider.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BBB5ED8C-4817-4325-A5A7-E96FC2CB5010}|Lab1.vcxproj|solutionrelative:IRemoteDataProvider.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBB5ED8C-4817-4325-A5A7-E96FC2CB5010}|Lab1.vcxproj|C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\ICollectionManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BBB5ED8C-4817-4325-A5A7-E96FC2CB5010}|Lab1.vcxproj|solutionrelative:ICollectionManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBB5ED8C-4817-4325-A5A7-E96FC2CB5010}|Lab1.vcxproj|C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\Exchange.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BBB5ED8C-4817-4325-A5A7-E96FC2CB5010}|Lab1.vcxproj|solutionrelative:Exchange.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBB5ED8C-4817-4325-A5A7-E96FC2CB5010}|Lab1.vcxproj|C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\DataEncoder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BBB5ED8C-4817-4325-A5A7-E96FC2CB5010}|Lab1.vcxproj|solutionrelative:DataEncoder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{BBB5ED8C-4817-4325-A5A7-E96FC2CB5010}|Lab1.vcxproj|C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\CurrencyCollection.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBB5ED8C-4817-4325-A5A7-E96FC2CB5010}|Lab1.vcxproj|solutionrelative:CurrencyCollection.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BBB5ED8C-4817-4325-A5A7-E96FC2CB5010}|Lab1.vcxproj|C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\CurrencyCollection.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BBB5ED8C-4817-4325-A5A7-E96FC2CB5010}|Lab1.vcxproj|solutionrelative:CurrencyCollection.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBB5ED8C-4817-4325-A5A7-E96FC2CB5010}|Lab1.vcxproj|C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\Currency.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BBB5ED8C-4817-4325-A5A7-E96FC2CB5010}|Lab1.vcxproj|solutionrelative:Currency.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,141 +58,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "IRemoteDataProvider.cpp",
               "DocumentMoniker": "C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\IRemoteDataProvider.cpp",
               "RelativeDocumentMoniker": "IRemoteDataProvider.cpp",
               "ToolTip": "C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\IRemoteDataProvider.cpp",
               "RelativeToolTip": "IRemoteDataProvider.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-05T22:21:55.284Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ICollectionManager.h",
-              "DocumentMoniker": "C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\ICollectionManager.h",
-              "RelativeDocumentMoniker": "ICollectionManager.h",
-              "ToolTip": "C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\ICollectionManager.h",
-              "RelativeToolTip": "ICollectionManager.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-03T22:44:13.894Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CurrencyCollection.cpp",
-              "DocumentMoniker": "C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\CurrencyCollection.cpp",
-              "RelativeDocumentMoniker": "CurrencyCollection.cpp",
-              "ToolTip": "C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\CurrencyCollection.cpp",
-              "RelativeToolTip": "CurrencyCollection.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAC8AAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-03T20:30:19.561Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "DataEncoder.h",
-              "DocumentMoniker": "C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\DataEncoder.h",
-              "RelativeDocumentMoniker": "DataEncoder.h",
-              "ToolTip": "C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\DataEncoder.h",
-              "RelativeToolTip": "DataEncoder.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-03T19:48:18.604Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "RestDataProvider.h",
-              "DocumentMoniker": "C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\RestDataProvider.h",
-              "RelativeDocumentMoniker": "RestDataProvider.h",
-              "ToolTip": "C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\RestDataProvider.h",
-              "RelativeToolTip": "RestDataProvider.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-03T18:43:32.747Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Currency.cpp",
-              "DocumentMoniker": "C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\Currency.cpp",
-              "RelativeDocumentMoniker": "Currency.cpp",
-              "ToolTip": "C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\Currency.cpp",
-              "RelativeToolTip": "Currency.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-03T19:03:27.461Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CurrencyExchangeInterface.cpp",
-              "DocumentMoniker": "C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\CurrencyExchangeInterface.cpp",
-              "RelativeDocumentMoniker": "CurrencyExchangeInterface.cpp",
-              "ToolTip": "C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\CurrencyExchangeInterface.cpp",
-              "RelativeToolTip": "CurrencyExchangeInterface.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-03T19:00:49.908Z",
+              "WhenOpened": "2025-03-07T17:33:50.143Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CurrencyExchangeInterface.h",
-              "DocumentMoniker": "C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\CurrencyExchangeInterface.h",
-              "RelativeDocumentMoniker": "CurrencyExchangeInterface.h",
-              "ToolTip": "C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\CurrencyExchangeInterface.h",
-              "RelativeToolTip": "CurrencyExchangeInterface.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAALAAAAAAAAAA==",
+              "Title": "RestDataProvider.h",
+              "DocumentMoniker": "C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\RestDataProvider.h",
+              "RelativeDocumentMoniker": "RestDataProvider.h",
+              "ToolTip": "C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\RestDataProvider.h",
+              "RelativeToolTip": "RestDataProvider.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-03T18:39:54.924Z",
+              "WhenOpened": "2025-03-07T17:33:45.399Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DataEncoder.cpp",
-              "DocumentMoniker": "C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\DataEncoder.cpp",
-              "RelativeDocumentMoniker": "DataEncoder.cpp",
-              "ToolTip": "C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\DataEncoder.cpp",
-              "RelativeToolTip": "DataEncoder.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-03T19:48:22.001Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IRemoteDataProvider.h",
-              "DocumentMoniker": "C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\IRemoteDataProvider.h",
-              "RelativeDocumentMoniker": "IRemoteDataProvider.h",
-              "ToolTip": "C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\IRemoteDataProvider.h",
-              "RelativeToolTip": "IRemoteDataProvider.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-03T19:25:39.088Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "Exchange.cpp",
               "DocumentMoniker": "C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\Exchange.cpp",
               "RelativeDocumentMoniker": "Exchange.cpp",
@@ -220,12 +96,12 @@
               "RelativeToolTip": "Exchange.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-02T13:57:24.302Z",
+              "WhenOpened": "2025-03-07T17:07:52.324Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 3,
               "Title": "Exchange.h",
               "DocumentMoniker": "C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\Exchange.h",
               "RelativeDocumentMoniker": "Exchange.h",
@@ -233,73 +109,103 @@
               "RelativeToolTip": "Exchange.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-02T13:57:04.151Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T17:07:41.769Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "ICollectionManager.h",
+              "DocumentMoniker": "C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\ICollectionManager.h",
+              "RelativeDocumentMoniker": "ICollectionManager.h",
+              "ToolTip": "C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\ICollectionManager.h",
+              "RelativeToolTip": "ICollectionManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-03T22:44:13.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataEncoder.cpp",
+              "DocumentMoniker": "C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\DataEncoder.cpp",
+              "RelativeDocumentMoniker": "DataEncoder.cpp",
+              "ToolTip": "C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\DataEncoder.cpp",
+              "RelativeToolTip": "DataEncoder.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-07T17:02:27.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataEncoder.h",
+              "DocumentMoniker": "C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\DataEncoder.h",
+              "RelativeDocumentMoniker": "DataEncoder.h",
+              "ToolTip": "C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\DataEncoder.h",
+              "RelativeToolTip": "DataEncoder.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-03T19:48:18.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CurrencyExchangeInterface.cpp",
+              "DocumentMoniker": "C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\CurrencyExchangeInterface.cpp",
+              "RelativeDocumentMoniker": "CurrencyExchangeInterface.cpp",
+              "ToolTip": "C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\CurrencyExchangeInterface.cpp",
+              "RelativeToolTip": "CurrencyExchangeInterface.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAB4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-07T17:00:05.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CurrencyExchangeInterface.h",
+              "DocumentMoniker": "C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\CurrencyExchangeInterface.h",
+              "RelativeDocumentMoniker": "CurrencyExchangeInterface.h",
+              "ToolTip": "C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\CurrencyExchangeInterface.h",
+              "RelativeToolTip": "CurrencyExchangeInterface.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-07T17:00:00.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Lab1.cpp",
               "DocumentMoniker": "C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\Lab1.cpp",
               "RelativeDocumentMoniker": "Lab1.cpp",
               "ToolTip": "C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\Lab1.cpp",
               "RelativeToolTip": "Lab1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-02T07:15:56.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-02T07:15:56.255Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RestDataProvider.cpp",
-              "DocumentMoniker": "C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\RestDataProvider.cpp",
-              "RelativeDocumentMoniker": "RestDataProvider.cpp",
-              "ToolTip": "C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\RestDataProvider.cpp",
-              "RelativeToolTip": "RestDataProvider.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "CurrencyCollection.cpp",
+              "DocumentMoniker": "C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\CurrencyCollection.cpp",
+              "RelativeDocumentMoniker": "CurrencyCollection.cpp",
+              "ToolTip": "C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\CurrencyCollection.cpp",
+              "RelativeToolTip": "CurrencyCollection.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-03T19:35:56.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T17:04:42.787Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 11,
               "Title": "CurrencyCollection.h",
               "DocumentMoniker": "C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\CurrencyCollection.h",
               "RelativeDocumentMoniker": "CurrencyCollection.h",
               "ToolTip": "C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\CurrencyCollection.h",
               "RelativeToolTip": "CurrencyCollection.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-03T18:35:58.934Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Currency.h",
-              "DocumentMoniker": "C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\Currency.h",
-              "RelativeDocumentMoniker": "Currency.h",
-              "ToolTip": "C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\Currency.h",
-              "RelativeToolTip": "Currency.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-03T18:42:05.789Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ICollectionManager.cpp",
-              "DocumentMoniker": "C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\ICollectionManager.cpp",
-              "RelativeDocumentMoniker": "ICollectionManager.cpp",
-              "ToolTip": "C:\\Users\\jlena\\Desktop\\Studia\\TechnologieObiektowe\\TO_Jakub_Lenart\\Lab1\\ICollectionManager.cpp",
-              "RelativeToolTip": "ICollectionManager.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-03T22:44:10.981Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T18:35:58.934Z"
             }
           ]
         }
